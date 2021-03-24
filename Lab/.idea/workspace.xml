@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="be4d767b-7f82-4fee-b996-dd6305ff5deb" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1qALFBDuSuij3PhgkMyEC7clVJW" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Lab4" />
+    <property name="recentsLimit" value="10" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be4d767b-7f82-4fee-b996-dd6305ff5deb" name="Default Changelist" comment="" />
+      <created>1616517341949</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1616517341949</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1616517532682">
+      <screen x="62" y="27" width="1304" height="741" />
+    </state>
+    <state x="172" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.27.1304.741@62.27.1304.741" timestamp="1616517532682" />
+    <state x="497" y="155" width="424" height="491" key="FileChooserDialogImpl" timestamp="1616517714055">
+      <screen x="62" y="27" width="1304" height="741" />
+    </state>
+    <state x="497" y="155" width="424" height="491" key="FileChooserDialogImpl/62.27.1304.741@62.27.1304.741" timestamp="1616517714055" />
+  </component>
+</project>
