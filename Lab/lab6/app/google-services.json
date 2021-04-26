@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "754509960178",
+    "project_id": "online-hospital-token-system",
+    "storage_bucket": "online-hospital-token-system.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:754509960178:android:cff19af24f411c016b116b",
+        "android_client_info": {
+          "package_name": "edu.gcit.lab3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "754509960178-laug6n18pbk0a4olhbssaeamgo96aich.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmU1f2moGldvzd_DD5lENtdLY6fi1Ul3k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "754509960178-laug6n18pbk0a4olhbssaeamgo96aich.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

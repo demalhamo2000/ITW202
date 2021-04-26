@@ -12,7 +12,7 @@ import android.widget.TextView;
 public class MainActivity2 extends AppCompatActivity {
     public static final String EXTRA_REPLY = "edu.gcit.lab3_MESSAGE";
     private TextView mView;
-    private TextView mMessageDisplay;
+    private EditText mMessageDisplay;
     private static final String LOG_TAG = MainActivity2.class.getSimpleName();
 
 
