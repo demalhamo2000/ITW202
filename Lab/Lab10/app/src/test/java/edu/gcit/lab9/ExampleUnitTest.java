@@ -74,6 +74,11 @@ public class ExampleUnitTest {
         assertThat(Result,is(closeTo(2.4642,0.001)));
     }
     @Test
+    public void MultiplyNumberWithZero(){
+        double result = mCalculator.Mul(23,0);
+        assertThat(result,is(equalTo(0.0)));
+    }
+    @Test
     public void DivideTwoNumber(){
         double Result = mCalculator.Div(2d,4d);
         assertThat(Result,is(equalTo(0.5d)));
@@ -87,6 +92,11 @@ public class ExampleUnitTest {
     public void DivideTwoNumberFloat(){
         double Result = mCalculator.Div(1.11f,2.22d);
         assertThat(Result,is(closeTo(0.5,0.001)));
+    }
+    @Test
+    public void DivideNumberByZero(){
+        double Result = mCalculator.Div(23d,0d);
+        assertThat(Result, is(equalTo(Double.POSITIVE_INFINITY)));
     }
 
 }
