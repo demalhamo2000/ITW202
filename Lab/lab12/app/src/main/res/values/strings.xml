@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab12</string>
+    <string name="Donut_Order">Donut_Order</string>
+    <string name="Donut">You Ordered a Donut</string>
+    <string name="ice_cream_sandwich">You ordered a Ice Cream Sandwich</string>
+    <string name="froyo">You Ordered a Froyo</string>
+</resources>
