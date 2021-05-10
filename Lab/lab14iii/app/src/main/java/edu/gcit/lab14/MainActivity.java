@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
     public void alert(View view) {
         AlertDialog.Builder myAlertBuilder = new AlertDialog.Builder(MainActivity.this);
         myAlertBuilder.setTitle("Alert");
-        myAlertBuilder.setMessage("@strings/info");
+        myAlertBuilder.setMessage("R.strings/info");
         myAlertBuilder.setPositiveButton("OK", new DialogInterface.OnClickListener() {
             @Override
             public void onClick(DialogInterface dialog, int which) {
