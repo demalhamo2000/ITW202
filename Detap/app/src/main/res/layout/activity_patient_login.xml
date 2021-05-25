@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/Gray"
+    tools:context=".PatientLogin">
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="193dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="LogIn"
+        android:textSize="30sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.459"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.079" />
+
+    <EditText
+        android:id="@+id/PLogEmail"
+        android:layout_width="370dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="52dp"
+        android:ems="15"
+        android:gravity="center"
+        android:inputType="textPersonName"
+        android:layout_gravity="center"
+        android:background="@drawable/border"
+        android:hint="UserName"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/textView1" />
+
+    <EditText
+        android:id="@+id/PLogPass"
+        android:layout_width="370dp"
+        android:layout_height="60dp"
+        android:layout_marginTop="30dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border"
+        android:ems="15"
+        android:gravity="center"
+        android:inputType="textPassword"
+        android:hint="Password"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.486"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PLogEmail" />
+
+    <Button
+        android:id="@+id/PLogin"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="LogIn"
+        android:onClick="onClick"
+        android:layout_gravity="center"
+        android:background="@drawable/button_design"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.487"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PLogPass"
+        app:layout_constraintVertical_bias="0.117" />
+
+    <Button
+        android:id="@+id/ForgotPass"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="24dp"
+        android:text="Forgot Password"
+        android:layout_gravity="center"
+        android:background="@drawable/button_design"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/PLogin" />
+
+    <LinearLayout
+        android:layout_width="390dp"
+        android:layout_height="51dp"
+        android:layout_marginTop="200dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ForgotPass">
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="30dp"
+            android:layout_marginStart="110dp"
+            android:layout_marginLeft="110dp"
+            android:layout_marginTop="0dp"
+            android:text="Don't have account"
+            app:layout_constraintBottom_toBottomOf="parent"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.387"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ForgotPass"
+            app:layout_constraintVertical_bias="0.857" />
+
+        <TextView
+            android:id="@+id/Pregister"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="0dp"
+            android:onClick="onClick"
+            android:text="Register"
+            android:textStyle="bold"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/ForgotPass" />
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

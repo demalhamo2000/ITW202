@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "740959586102",
+    "project_id": "detap-cdf8f",
+    "storage_bucket": "detap-cdf8f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740959586102:android:70322c0450612e28565597",
+        "android_client_info": {
+          "package_name": "edu.gcit.detap"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740959586102-vce556d1vfg3tkshq0bdk96qvptor2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMiyJkAlyoL4gjeRsZNUk20jZKlwlAVmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740959586102-vce556d1vfg3tkshq0bdk96qvptor2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740959586102:android:b9af24474bc5126e565597",
+        "android_client_info": {
+          "package_name": "edu.gcit.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740959586102-vce556d1vfg3tkshq0bdk96qvptor2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMiyJkAlyoL4gjeRsZNUk20jZKlwlAVmA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740959586102-vce556d1vfg3tkshq0bdk96qvptor2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
