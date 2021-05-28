@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/my_nav"
+    app:startDestination="@id/patient_Profile">
+
+    <fragment
+        android:id="@+id/patient_Profile"
+        android:name="edu.gcit.detap.Patient_Profile"
+        android:label="fragment_patient__profile"
+        tools:layout="@layout/fragment_patient__profile" />
+    <fragment
+        android:id="@+id/patient_DoctorInfo"
+        android:name="edu.gcit.detap.Patient_DoctorInfo"
+        android:label="fragment_patient__doctor_info"
+        tools:layout="@layout/fragment_patient__doctor_info" />
+    <fragment
+        android:id="@+id/patient_Notification"
+        android:name="edu.gcit.detap.Patient_Notification"
+        android:label="fragment_patient__notification"
+        tools:layout="@layout/fragment_patient__notification" />
+    <fragment
+        android:id="@+id/patient_Setting"
+        android:name="edu.gcit.detap.Patient_Setting"
+        android:label="Patient_Setting" />
+</navigation>

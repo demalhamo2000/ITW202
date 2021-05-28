@@ -65,7 +65,7 @@ public class PatientLogin extends AppCompatActivity {
                     public void onComplete(@NonNull Task<AuthResult> task) {
                         if (task.isSuccessful()){
                             Toast.makeText(PatientLogin.this,"Logged in Successfully", Toast.LENGTH_SHORT).show();
-                            startActivity(new Intent(getApplicationContext(), DoctorHome.class));
+                            startActivity(new Intent(getApplicationContext(), PatientHome.class));
                         } else {
                             Toast.makeText(PatientLogin.this,"Error!" + task.getException().getMessage(), Toast.LENGTH_SHORT).show();
                             mProgressBar.setVisibility(View.GONE);

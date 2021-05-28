@@ -6,15 +6,20 @@
     android:layout_height="match_parent"
     tools:context=".PatientHome">
 
-    <TextView
-        android:id="@+id/textView5"
-        android:layout_width="318dp"
-        android:layout_height="214dp"
-        android:layout_marginTop="168dp"
-        android:textSize="30sp"
-        android:text="I Love You Too"
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:id="@+id/bottomNavigationView2"
+        android:layout_width="415dp"
+        android:layout_height="79dp"
+        android:layout_alignParentButton="true"
+        android:layout_marginBottom="675dp"
+        android:background="@color/Gray"
+        app:itemTextColor="@drawable/selector"
+        app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintHorizontal_bias="1.0"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.008"
+        app:menu="@menu/button_menu" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
