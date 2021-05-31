@@ -10,7 +10,6 @@
         android:id="@+id/bottomNavigationView2"
         android:layout_width="415dp"
         android:layout_height="79dp"
-        android:layout_alignParentButton="true"
         android:layout_marginBottom="675dp"
         android:background="@color/Gray"
         app:itemTextColor="@drawable/selector"
@@ -21,5 +20,17 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="0.008"
         app:menu="@menu/button_menu" />
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="212dp"
+        android:layout_height="75dp"
+        android:layout_marginTop="248dp"
+        android:onClick="P_Logout"
+        android:text="logout"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/bottomNavigationView2" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>

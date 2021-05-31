@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/D_Profile"
+        android:icon="@drawable/ic_profile"
+        android:title="Item" />
+    <item
+        android:id="@+id/D_PatientList"
+        android:icon="@drawable/ic_doctor"
+        android:title="Item" />
+    <item
+        android:id="@+id/D_Notification"
+        android:icon="@drawable/ic_notification"
+        android:title="Item" />
+    <item
+        android:id="@+id/D_Setting"
+        android:icon="@drawable/ic_setting"
+        android:title="Item" />
+</menu>

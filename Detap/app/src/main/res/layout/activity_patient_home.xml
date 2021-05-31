@@ -10,7 +10,6 @@
         android:id="@+id/bottomNavigationView2"
         android:layout_width="415dp"
         android:layout_height="79dp"
-        android:layout_alignParentButton="true"
         android:layout_marginBottom="675dp"
         android:background="@color/Gray"
         app:itemTextColor="@drawable/selector"

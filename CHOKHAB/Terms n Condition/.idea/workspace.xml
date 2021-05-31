@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f4197e1-d9a2-41ea-a890-cb93ddc68923" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/D_Notification.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/D_PatientList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/D_Profile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/D_Setting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_d__notification.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_d__patient_list.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_d__profile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_d__setting.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/menu/doctor_menu.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/androidTest/java/edu/gcit/to_do23/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/java/edu/gcit/to_do23/CustomReceiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/java/edu/gcit/to_do23/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/app/src/test/java/edu/gcit/to_do23/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Lab/To_Do23/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../To_Do22/app/src/main/java/edu/gcit/to_do22/BookLoader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/DoctorHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/DoctorHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/PatientHome.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/PatientHome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_DoctorInfo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_DoctorInfo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_Notification.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_Notification.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_Profile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_Profile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_Setting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/java/edu/gcit/detap/patient_Setting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_doctor_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_doctor_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__doctor_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__doctor_info.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__notification.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__notification.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__profile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__profile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__setting.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient__setting.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Detap/app/src/main/res/layout/activity_patient_home.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1tDbdCNaOpmOCJHmcpZyJV4AD9o" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f4197e1-d9a2-41ea-a890-cb93ddc68923" name="Default Changelist" comment="" />
+      <created>1622306691306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622306691306</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="172" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1622306735666">
+      <screen x="62" y="27" width="1304" height="741" />
+    </state>
+    <state x="172" y="55" key="#com.intellij.execution.impl.EditConfigurationsDialog/62.27.1304.741@62.27.1304.741" timestamp="1622306735666" />
+    <state x="297" y="143" width="824" height="515" key="IDE.errors.dialog" timestamp="1622306711277">
+      <screen x="62" y="27" width="1304" height="741" />
+    </state>
+    <state x="297" y="143" width="824" height="515" key="IDE.errors.dialog/62.27.1304.741@62.27.1304.741" timestamp="1622306711277" />
+  </component>
+</project>

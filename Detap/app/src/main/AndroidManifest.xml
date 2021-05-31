@@ -11,7 +11,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Detap">
-        <activity android:name=".patient_Setting"></activity>
+        <activity android:name=".D_Setting"></activity>
+        <activity android:name=".D_Notification" />
+        <activity android:name=".D_PatientList" />
+        <activity android:name=".D_Profile" />
+        <activity android:name=".patient_Setting" />
         <activity android:name=".patient_Notification" />
         <activity android:name=".patient_DoctorInfo" />
         <activity android:name=".patient_Profile" />
