@@ -1,6 +1,0 @@
-<resources>
-    <string name="app_name">To_Do22</string>
-    <string name="instruction">Enter a book name to find out who wrote the book.</string>
-    <string name="button_text">Search Book</string>
-    <string name="input_hint">Book Title</string>
-</resources>
